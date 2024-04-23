@@ -3,6 +3,7 @@
 >
 2. **The url of: "amqp://guest:guest@localhost:5672" is the same as in the subscriber program, what does it mean?**
 >
+<br>
 
 ### **Screenshot of first running RabbitMQ:**
-![alt text](image/running_rabbitMQ.png) <br><br>
+![alt text](images/running_rabbitMQ.png) <br><br>
