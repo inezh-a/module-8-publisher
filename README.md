@@ -7,3 +7,10 @@
 
 ### **Screenshot of first running RabbitMQ:**
 ![alt text](images/running_rabbitMQ.png) <br><br>
+
+### **Screenshot of publisher console running cargo run, sending five events to the message broker.**
+![alt text](images/terminal_publisher.png) <br><br>
+
+### **Screenshot of subscriber console receiving five events from the publisher.**
+![alt text](images/terminal_subscriber.png) <br><br>
+
