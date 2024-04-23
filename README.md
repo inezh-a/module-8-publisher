@@ -14,3 +14,5 @@
 ### **Screenshot of subscriber console receiving five events from the publisher.**
 ![alt text](images/terminal_subscriber.png) <br><br>
 
+### **Screenshot of RabbitMQ Message Rates graph spiking due to the publisher sending messages to the message broker. Graph shows the rate at which messages are entering the server.**
+![alt text](images/spike_rabbitMQ.png) <br><br>
