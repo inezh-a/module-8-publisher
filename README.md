@@ -1,8 +1,8 @@
 ## REFLECTION
 1. **How many data your publisher program will send to the message broker in one run?**
->
+> Five messages per run, as there is five calls of the method publish_event sending UserCreatedEventMessage to the broker.
 2. **The url of: "amqp://guest:guest@localhost:5672" is the same as in the subscriber program, what does it mean?**
->
+>The two programs connects to the same AMQP (Advanced Message Queueing Protocol), using also the same credentials (guest:guest) with the server being located in localhost port 5672.
 <br>
 
 ### **Screenshot of first running RabbitMQ:**
